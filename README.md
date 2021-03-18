@@ -2,6 +2,8 @@
 
 Jogo feito no curso do ProgramadorBr com alterações minhas.
 
+[Site](https://kaio-matos.github.io/jogo-da-memoria/)
+
 ## Tela Inicial
 
 ![image](./README/memoria-state-0.png)
